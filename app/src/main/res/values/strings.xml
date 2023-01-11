@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Geo Quiz</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="false_button">False</string>
+    <string name="true_button">True</string>
+    <string name="question_australia">Canberra is the capital city of Australia?</string>
+    <string name="next_button">Next</string>
+    <string name="question_algeria">Algeria is the largest country of Africa by land mass</string>
+    <string name="question_auckland">City of Auckland is in Germany</string>
+    <string name="question_amazon">Amazon is the longest river in americas</string>
+    <string name="question_Lake">Lake baikal is the world\'s oldest and deepest freshwater lake</string>
+    <string name="question_india">India is located in Africa</string>
+    <string name="previous_button">PREV</string>
+    <string name="error_toast">Error</string>
+</resources>
